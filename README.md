@@ -29,6 +29,4 @@ I have a passion to solve problems and find easy-to-understand solutions. Also I
 
 <a href="http://www.github.com/csilld"><img src="https://github-readme-stats.vercel.app/api?username=csilld&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="csilld's GitHub stats" /></a>
 
-<a href="http://www.github.com/csilld"><img src="https://github-readme-streak-stats.herokuapp.com/?user=csilld&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 <a href="https://github.com/csilld" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csilld&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
