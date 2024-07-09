@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Java backend developer
 -----------------------------
 
-I have a passion to solve problems and find out easy-to-understand solutions. Also I believe in lifelong learning, so here I am, learning to code and about to change career.
+I have a passion to solve problems and find easy-to-understand solutions. Also I believe in lifelong learning, so here I am, learning to code and about to change career.
 
 * 🌍  I'm based in Hungary, Europe
 * ✉️  You can contact me at [deczkics@gmail.com](mailto:deczkics@gmail.com)
